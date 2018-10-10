@@ -1,6 +1,7 @@
 This is a sample repository for first experience of github.
 
 Please refer to below guide.
+.....................
 
 [Create a new repository on the command line]
 	touch README.md
