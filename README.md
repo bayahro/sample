@@ -11,3 +11,4 @@ Please refer to below guide.
 	git remote add origin https://github.com/bayahro/sample.git
 	git push -u origin master
 
+![image](https://github.com/bayahro/sample/assets/5435381/3b01d284-89af-4b92-9daa-2ea83762ce05)
